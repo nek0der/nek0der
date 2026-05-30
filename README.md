@@ -33,7 +33,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nek0der&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nek0der&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nek0der&theme=tokyonight" />
 
 </div>
 
@@ -49,11 +50,13 @@
 
 <div align="center">
 
-[![limpid](https://github-readme-stats.vercel.app/api/pin/?username=nek0der&repo=limpid&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/nek0der/limpid)
+### 🖥️ [limpid](https://github.com/nek0der/limpid)
+
+[![stars](https://img.shields.io/github/stars/nek0der/limpid?style=for-the-badge&logo=github&color=6C63FF)](https://github.com/nek0der/limpid/stargazers)
+[![forks](https://img.shields.io/github/forks/nek0der/limpid?style=for-the-badge&logo=github&color=6C63FF)](https://github.com/nek0der/limpid/network/members)
+![top language](https://img.shields.io/github/languages/top/nek0der/limpid?style=for-the-badge&logo=swift&color=FA7343)
 
 </div>
-
-### 🖥️ limpid
 
 > **A macOS-native terminal for the AI coding agent era**
 
