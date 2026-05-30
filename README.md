@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+nek0der;Windows+Native+Developer;AI+Tools+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+nek0der;macOS+Native+Developer;AI+Tools+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
@@ -17,12 +17,11 @@
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![WinUI](https://img.shields.io/badge/WinUI_3-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -50,20 +49,20 @@
 
 <div align="center">
 
-[![CodexBarWin](https://github-readme-stats.vercel.app/api/pin/?username=nek0der&repo=CodexBarWin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/nek0der/CodexBarWin)
+[![limpid](https://github-readme-stats.vercel.app/api/pin/?username=nek0der&repo=limpid&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/nek0der/limpid)
 
 </div>
 
-### 🪟 CodexBarWin
+### 🖥️ limpid
 
-> **AIコーディングツールの使用制限をシステムトレイに表示するWindowsネイティブアプリ**
+> **A macOS-native terminal for the AI coding agent era**
 
-| 特徴 | 技術 |
-|------|------|
-| 🎨 Windows 11 Mica デザイン | WinUI 3 / .NET 10.0 |
-| 🤖 Claude, Codex, Gemini 対応 | C# |
-| 🌙 ダークモード対応 | システムトレイ統合 |
-| 🔄 自動更新機能 | MIT License |
+| Feature | Tech |
+|---------|------|
+| 🪟 Liquid Glass UI | SwiftUI / Swift |
+| ⚡ libghostty rendering engine | libghostty |
+| 🌳 Project & worktree management | macOS 26+ (Apple Silicon) |
+| 🔄 Sparkle auto-update | MIT License |
 
 ---
 
